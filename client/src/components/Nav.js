@@ -9,7 +9,7 @@ function nav(){
                     <ul>
                         <li>News</li>
                         <li>Family</li>
-                        <li></li>
+                        <li>Want to Post?</li>
                     </ul>
                 </div>
             </div>
